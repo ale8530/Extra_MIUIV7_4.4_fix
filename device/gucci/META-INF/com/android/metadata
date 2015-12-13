@@ -1,0 +1,3 @@
+post-build=Xiaomi/gucci/gucci:4.4.4/KTU84P/5.12.10:user/release-keys
+post-timestamp=1449707378
+pre-device=gucci
